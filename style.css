@@ -1,0 +1,190 @@
+body {
+  max-width: 960px;
+  height: auto;
+  border: 2px solid black;
+}
+p{
+  text-indent: 15px;
+  font-size: 17px;
+}
+ul {
+  list-style-type: square;
+}
+
+#wrapper {
+  max-width: 800px;
+  margin: 20px 80px auto 80px;
+  padding: 0px;
+  height: auto;
+
+  border: 1px solid black;
+}
+
+.header{
+  padding: 0px;
+}
+#logo{
+  display: inline-block;
+  top: 0px;
+  padding: 0px;
+
+  border: 1px solid black;
+}
+#delicious{
+  font-family: 'Yellowtail';
+  font-size: 40px;
+  display: absolute;
+  margin-left: 50px;
+  margin-top: -60px;
+  padding-bottom: -10px;
+
+  border: 1px solid black;
+}
+#food-blog{
+  font-family: 'Droid';
+  font-size: 11px;
+  margin-top: -4px;
+  display: absolute;
+  margin-left: 50px;
+}
+#hyperlinks1{
+  display: inline;
+  float: right;
+
+  border: 1px solid black;
+}
+#hyperlinks2{
+  display: inline;
+  float: right;
+  margin-left: 15px;
+
+  border: 1px solid black;
+}
+#first-line-border{
+  height: 10px;
+  width: 798px;
+  background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+  border: 0;
+  margin: 20px 0px 20px 0px;
+}
+
+.header2 {
+  padding: 0px;
+  margin-bottom: 20px;
+
+  border: 1px solid black;
+}
+#chocolate-pizza{
+  font-family: 'Tecko';
+  font-size: 40px;
+  diplay: inline-block;
+}
+#date{
+  font-size: 13px;
+  position: absolute;
+
+  border: 1px solid black;
+}
+#print{
+  float: right;
+
+  border: 1px solid black;
+}
+#chocolate-pizza-image {
+  width: 800px;
+  height: auto;
+  margin-top: 20px;
+}
+#list{
+  background-image: url("images/list-bg.png");
+  width: 800px;
+  height: auto;
+}
+#list1{
+  display: inline-block;
+  margin-right: 50px;
+  margin-left: 70px;
+
+  padding: 5px 10px 10px 5px;
+
+  border: 1px solid black;
+}
+#list2{
+  display: inline-block;
+  margin-left: 120px;
+  padding: 5px 10px 10px 5px;
+
+  border: 1px solid black;
+}
+#second-line-border{
+  height: 10px;
+  width: 798px;
+  background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+  border: 0;
+  margin: 20px 0px 20px 0px;
+}
+.vanessa {
+  padding: 0px;
+
+  border: 1px dashed black;
+}
+#vanessa-pic{
+  display: absolute;
+
+  border: 1px solid black;
+}
+#vanessa-text{
+  display: inline-block;
+  margin-left: 0px;
+  margin-top: 0px;
+
+  border: 1px dashed black;
+}
+#van-name {
+  display: absolute;
+  padding: 0px;
+  margin-top: -60px;
+  font-size: 20px;
+  font-weight: bold;
+
+  border: 1px solid black;
+}
+#van-desc {
+  display: absolute;
+  padding: 0px;
+  font-size: 15px;
+  margin-top: 10px;
+
+  border: 1px solid black;
+}
+#share-recipe{
+  display: inline-block;
+  box-sizing: content-box;
+  text-align: center;
+  padding: 10px;
+  width: 150px;
+  height: auto;
+  float: right;
+  background-color: brown;
+  color: white;
+
+  border: 1px solid black;
+}
+.footer{
+  padding: ;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  border: 1px dashed black;
+}
+#third-line-border {
+  display: inline-block;
+  width: 370px;
+}
+#small-logo{
+  display: inline-block;
+  margin-left: 380px;
+}
+#copyright {
+  text-align: center;
+  font-size: 10px;
+}
